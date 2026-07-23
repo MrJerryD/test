@@ -366,7 +366,8 @@ nav a:hover{
 
 .info strong{
     margin-top:auto;
-    color: #22ff00;
+    /*color: #22ff00;*/
+    color: #ccff00;
     font-size:20px;
     font-weight:700;
 }
